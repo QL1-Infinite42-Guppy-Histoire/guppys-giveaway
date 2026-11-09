@@ -1,8 +1,8 @@
-# スターライト抽選（Starlight Lottery）
+# Guppy's Giveaway（仮）— スターライト抽選
 
 運営（Guppy's Guide）のスターライト報酬を10日間蓄積して賞金プールにし、当選者に配布する抽選プロジェクト。**現在は設計段階**です。
 
-- 🌐 プロジェクトサイト（ロードマップ）: https://ql1-infinite42-guppy-histoire.github.io/starlight-lottery/
+- 🌐 プロジェクトサイト（ロードマップ）: https://ql1-infinite42-guppy-histoire.github.io/guppys-giveaway/
 - 📄 設計書: [DESIGN.md](./DESIGN.md)
 - 🗺️ ロードマップ画像: [roadmap.png](./roadmap.png)
 
